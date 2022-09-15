@@ -1,2 +1,2 @@
-# portfolioJoseJuanCortina
-Pagina personal para practicas de HTML, CSS y Bootstrap
+# portafolioJoseJuanCortina
+Portafolio de muestra con pagina web
